@@ -1,0 +1,309 @@
+{
+  "company": {
+    "name": "Vermixor",
+    "taglines": [
+      "We build digital products that grow your business",
+      "Web, apps & AI for ambitious businesses"
+    ],
+    "description": "Design-forward web & mobile experiences, robust backends, and AI solutions that deliver measurable growth.",
+    "founded": "2025",
+    "employees": "3-4",
+    "location": "Lahore, Pakistan"
+  },
+  "stats": [
+    { "label": "Projects Completed", "value": 5, "suffix": "+" },
+    { "label": "Happy Clients", "value": 5, "suffix": "+" },
+    { "label": "Avg Conversion Boost", "value": 3, "suffix": "x" },
+    { "label": "Years in Business", "value": 2, "suffix": "+" }
+  ],
+  "services": [
+    {
+      "id": "websites",
+      "title": "Custom Websites",
+      "description": "Fast, responsive websites that convert visitors into customers.",
+      "icon": "globe",
+      "features": ["Responsive Design", "SEO Optimized", "Performance First", "CMS Integration"]
+    },
+    {
+      "id": "ecommerce",
+      "title": "E-commerce Platforms",
+      "description": "Scalable online stores with seamless shopping experiences.",
+      "icon": "shopping-cart",
+      "features": ["Payment Integration", "Inventory Management", "Mobile Commerce", "Analytics"]
+    },
+    {
+      "id": "apps",
+      "title": "Mobile & Web Apps",
+      "description": "Native and progressive web apps for modern businesses.",
+      "icon": "device-phone-mobile",
+      "features": ["Cross-platform", "Real-time Features", "Push Notifications", "Offline Support"]
+    },
+    {
+      "id": "ai-ml",
+      "title": "AI & Machine Learning",
+      "description": "Intelligent automation and data-driven insights.",
+      "icon": "cpu-chip",
+      "features": ["Predictive Analytics", "Automation", "NLP Processing", "Computer Vision"]
+    },
+    {
+      "id": "databases",
+      "title": "Backend Systems",
+      "description": "Robust databases and APIs that scale with your business.",
+      "icon": "server",
+      "features": ["Cloud Architecture", "API Development", "Data Security", "Scalability"]
+    },
+    {
+      "id": "ui-ux",
+      "title": "UI/UX Design",
+      "description": "User-centered design that drives engagement and conversion.",
+      "icon": "paint-brush",
+      "features": ["User Research", "Prototyping", "Design Systems", "Usability Testing"]
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Discover",
+      "description": "We understand your business goals and user needs through research and strategy sessions."
+    },
+    {
+      "step": 2,
+      "title": "Design",
+      "description": "Create user-centered designs and prototypes that align with your brand and objectives."
+    },
+    {
+      "step": 3,
+      "title": "Develop",
+      "description": "Build robust, scalable solutions using modern technologies and best practices."
+    },
+    {
+      "step": 4,
+      "title": "Deploy & Support",
+      "description": "Launch your solution and provide ongoing support to ensure continued success."
+    }
+  ],
+  "projects": [
+    {
+      "id": "acm-student-chapter-cui-website",
+      "title": "ACM Student Chapter CUI Website",
+      "client": "ACM",
+      "category": "Website",
+      "description": "Built a responsive website for ACM Student Chapter CUI with event listings, member registration, and chapter updates.",
+      "image": "/projects/acm-student-chapter-cui.jpg",
+      "results": {
+        "sign-ups": "+40%",
+        "participation": "+30%",
+        "positive feedback": "95%"
+      },
+      "technologies": ["React", "Node.js", "Tailwind CSS", "Figma"],
+      "featured": true
+    },
+    {
+      "id": "technoverse-website",
+      "title": "TechnoVerse Website",
+      "client": "TechnoVerse",
+      "category": "Website",
+      "description": "Developed a central platform for TechnoVerse to showcase competitions, rules, schedules, and handle registrations.",
+      "image": "/projects/techflow.jpg",
+      "results": {
+        "registrations": "500+",
+        "participation": "+45%",
+        "positive feedback": "92%"
+      },
+      "technologies": ["React", "Node.js", "Tailwind", "Figma"],
+      "featured": true
+    },
+    {
+      "id": "garoonthai-database",
+      "title": "GAROONTHAI Restaurant Management System",
+      "client": "GAROONTHAI",
+      "category": "Database Application",
+      "description": "Created a Microsoft Access database to manage menu items, ingredients, pricing, reports, and CRUD operations.",
+      "image": "/projects/garoonthai.jpg",
+      "results": {
+        "processing": "+50% faster",
+        "centralized": "100%",
+        "performance": "+60%"
+      },
+      "technologies": ["Microsoft Access", "VBA", "SQL"],
+      "featured": true
+    },
+    {
+      "id": "lthr-pk-database",
+      "title": "LTHR.PK E-Commerce Store Database",
+      "client": "LTHR.PK",
+      "category": "Database Application",
+      "description": "Designed and implemented a SQL Server database to handle products, inventory, pricing, sales, and reporting for LTHR.PK’s e-commerce operations.",
+      "image": "/projects/lthr-pk.jpg",
+      "results": {
+        "inventory efficiency": "+70%",
+        "processing": "+60% faster",
+        "reporting accuracy": "+50%"
+      },
+      "technologies": ["MS SQL Server", "SQL", "Stored Procedures"],
+      "featured": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r-001",
+      "name": "A. Munir",
+      "email": "aimenmunir001@gmail.com",
+      "company": "ACM Student Chapter CUI",
+      "role": "Vice President",
+      "rating": 5,
+      "text": "Vermixor delivered what it was asked to do so, the website was amazing, User friendly and interactive. Exactly how we wanted it to be for anyone who wanted a glance at our work. Great job, Vermixor",
+      "service": "website",
+      "projectSlug": "acm-student-chapter-cui-website",
+      "verified": true,
+      "featured": true,
+      "date": "2025-08-15",
+      "media": []
+    },
+    {
+      "id": "r-002",
+      "name": "Aimen M.",
+      "email": "aimenmunir001@gmail.com",
+      "company": "TechnoVerse",
+      "role": "Visual Coordinator",
+      "rating": 5,
+      "text": "The website was exactly what we wanted, as a coordinator for visual representation of the event I think that was important and it did the job perfectly. Was interactive and easy to use for everyone. All the best",
+      "service": "website",
+      "projectSlug": "techflow-app",
+      "verified": true,
+      "featured": true,
+      "date": "2025-05-31",
+      "media": []
+    },
+    {
+      "id": "r-003",
+      "name": "M.I. Tariq",
+      "email": "sarah@mindful-wellness.com",
+      "company": "LTHR.PK",
+      "role": "Founder",
+      "rating": 5,
+      "text": "They did an excellent job creating a clean, accurate, and easy to use database for my store. Very professional work, highly recommended!",
+      "service": "Database Application",
+      "projectSlug": "lthr-pk-database",
+      "verified": true,
+      "featured": false,
+      "date": "2024-04-15",
+      "media": []
+    },
+    {
+      "id": "r-004",
+      "name": "David Rodriguez",
+      "email": "david@startup-xyz.com",
+      "company": "StartupXYZ",
+      "role": "CEO",
+      "rating": 4,
+      "text": "Professional team that delivered quality work on time. Would definitely work with them again.",
+      "service": "websites",
+      "projectSlug": null,
+      "verified": false,
+      "featured": false,
+      "date": "2024-03-22",
+      "media": []
+    },
+    {
+      "id": "r-005",
+      "name": "Lisa Thompson",
+      "email": "lisa@datainsight.com",
+      "company": "DataInsight",
+      "role": "VP of Analytics",
+      "rating": 5,
+      "text": "The AI dashboard they built saves us hours every week. The predictive analytics are incredibly accurate.",
+      "service": "ai-ml",
+      "projectSlug": "datainsight-ai",
+      "verified": true,
+      "featured": true,
+      "date": "2024-02-08",
+      "media": []
+    },
+    {
+      "id": "r-006",
+      "name": "John Smith",
+      "email": "john@pending.com",
+      "company": "Pending Review Co",
+      "role": "Marketing Director",
+      "rating": 4,
+      "text": "This is a pending review for moderation testing.",
+      "service": "websites",
+      "projectSlug": null,
+      "verified": false,
+      "featured": false,
+      "date": "2024-08-10",
+      "status": "pending",
+      "media": []
+    }
+  ],
+  "team": [
+    {
+      "name": "Zunair Ilyas",
+      "role": "Founder & Lead Developer",
+      "bio": "Full-stack engineer with 8+ years building scalable web applications.",
+      "image": "/team/alex.jpg"
+    },
+    {
+      "name": "Maya Patel",
+      "role": "Design Director",
+      "bio": "UX/UI designer passionate about creating intuitive digital experiences.",
+      "image": "/team/maya.jpg"
+    },
+    {
+      "name": "Jordan Kim",
+      "role": "AI Engineer",
+      "bio": "Machine learning specialist with expertise in NLP and computer vision.",
+      "image": "/team/jordan.jpg"
+    }
+  ],
+  "pricing": [
+    {
+      "tier": "Starter",
+      "price": 500,
+      "duration": "2-4 weeks",
+      "description": "Perfect for individuals and small businesses",
+      "features": [
+        "Custom website or landing page",
+        "Responsive design",
+        "Basic SEO setup",
+        "Contact form integration",
+        "2 rounds of revisions",
+        "14 days support"
+      ],
+      "popular": false
+    },
+    {
+      "tier": "Growth",
+      "price": 1500,
+      "duration": "4-8 weeks",
+      "description": "Great for growing businesses and startups",
+      "features": [
+        "Dynamic web application",
+        "Database integration",
+        "User accounts & authentication",
+        "Admin dashboard",
+        "API integration",
+        "4 rounds of revisions",
+        "60 days support"
+      ],
+      "popular": true
+    },
+    {
+      "tier": "Enterprise",
+      "price": "Custom",
+      "duration": "8+ weeks",
+      "description": "Tailored for complex or large-scale solutions",
+      "features": [
+        "Full-scale platform development",
+        "Third-party integrations",
+        "Scalable architecture",
+        "Dedicated project manager",
+        "Unlimited revisions",
+        "6-12 months support",
+        "Priority assistance"
+      ],
+      "popular": false
+    }
+  ]
+}
