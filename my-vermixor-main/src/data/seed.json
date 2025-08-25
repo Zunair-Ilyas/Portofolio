@@ -248,13 +248,13 @@
       "name": "Affan bin Zakir",
       "role": "Design Director",
       "bio": "UX/UI designer passionate about creating intuitive digital experiences.",
-      "image": "my-vermixor-main/public/Affan.jpg"
+      "image": "/Affan.jpg"
     },
     {
       "name": "Ibrahim Tariq",
       "role": "Senior React Developer",
       "bio": "React Developer with years of experience.",
-      "image": "my-vermixor-main/public/Ibrahim.jpg"
+      "image": "/Ibrahim.jpg"
     }
   ],
   "pricing": [
