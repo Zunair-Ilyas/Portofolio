@@ -91,10 +91,16 @@ const About: React.FC = () => {
               style={{ animationDelay: `${index * 0.2}s` }}
             >
               {/* Avatar placeholder */}
-              <div className="h-24 w-24 bg-gradient-hero rounded-full mx-auto mb-4 flex items-center justify-center text-primary-foreground text-2xl font-bold">
-                {member.name.split(' ').map(n => n[0]).join('')}
+              <div className="h-24 w-24 bg-gradient-hero rounded-full mx-auto mb-4 flex items-center justify-center text-primary-foreground text-2xl font-bold overflow-hidden">
+
+                {member.image ? (<img
+                    src={member.image}
+                    alt={member.name}
+                    className="h-full w-full object-cover"
+                />) : (member.name.split(' ').map(n => n[0]).join(''))}
+
               </div>
-              
+
               <h3 className="text-xl font-semibold mb-2">{member.name}</h3>
               <div className="text-primary font-medium mb-3">{member.role}</div>
               <p className="text-muted-foreground text-sm">{member.bio}</p>
