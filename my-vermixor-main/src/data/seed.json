@@ -241,8 +241,8 @@
     {
       "name": "Zunair Ilyas",
       "role": "Founder & Lead Developer",
-      "bio": "Full-stack engineer with 8+ years building scalable web applications.",
-      "image": "/Zunair.png"
+      "bio": "AI/ML engineer skilled in developing predictive models and intelligent automation.",
+      "image": "/Zunair.jpg"
     },
     {
       "name": "Affan bin Zakir",
@@ -253,7 +253,7 @@
     {
       "name": "Ibrahim Tariq",
       "role": "Senior React Developer",
-      "bio": "React Developer with years of experience.",
+      "bio": "React developer with expertise in building modern, scalable web applications",
       "image": "/Ibrahim.jpg"
     }
   ],
