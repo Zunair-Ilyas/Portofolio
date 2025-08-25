@@ -192,13 +192,13 @@
     },
     {
       "id": "r-004",
-      "name": "David Rodriguez",
-      "email": "david@startup-xyz.com",
-      "company": "StartupXYZ",
-      "role": "CEO",
+      "name": "Shawn Dodd",
+      "email": "",
+      "company": "",
+      "role": "",
       "rating": 4,
-      "text": "Professional team that delivered quality work on time. Would definitely work with them again.",
-      "service": "websites",
+      "text": "This is exceptional work! I appreciated the above-and-beyond approach and the extras I wouldn't have thought of. Very knowledgeable and excellent job done! I learned a lot and got a great service. This helped me so much!",
+      "service": "Database Application",
       "projectSlug": null,
       "verified": false,
       "featured": false,
@@ -207,14 +207,14 @@
     },
     {
       "id": "r-005",
-      "name": "Lisa Thompson",
-      "email": "lisa@datainsight.com",
-      "company": "DataInsight",
-      "role": "VP of Analytics",
+      "name": "Scott",
+      "email": "",
+      "company": "GaroonThai",
+      "role": "Business Developer",
       "rating": 5,
-      "text": "The AI dashboard they built saves us hours every week. The predictive analytics are incredibly accurate.",
-      "service": "ai-ml",
-      "projectSlug": "datainsight-ai",
+      "text": "Vermizor went well beyond my expectations; was focused on delivering what was needed, and had patience with working through any issues that occurred. They made it obvious he was always there to help - I intend to place another project order with them shortly",
+      "service": "Database Application",
+      "projectSlug": "garoonthai",
       "verified": true,
       "featured": true,
       "date": "2024-02-08",
@@ -245,16 +245,16 @@
       "image": "/team/alex.jpg"
     },
     {
-      "name": "Maya Patel",
+      "name": "Affan bin Zakir",
       "role": "Design Director",
       "bio": "UX/UI designer passionate about creating intuitive digital experiences.",
-      "image": "/team/maya.jpg"
+      "image": "my-vermixor-main/public/Affan.jpg"
     },
     {
-      "name": "Jordan Kim",
-      "role": "AI Engineer",
-      "bio": "Machine learning specialist with expertise in NLP and computer vision.",
-      "image": "/team/jordan.jpg"
+      "name": "Ibrahim Tariq",
+      "role": "Senior React Developer",
+      "bio": "React Developer with years of experience.",
+      "image": "my-vermixor-main/public/Ibrahim.jpg"
     }
   ],
   "pricing": [
